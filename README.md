@@ -1,6 +1,10 @@
-# breast-cancer-prediction-using-machine-learning
+# Machine Learning projects
 # 💫 About Me:
-i'm currently learning AI, machine learning, and its approach in medical.
+As a recent graduate with a Bachelor's degree in Biomechanical Engineering, I am passionate about leveraging the power of artificial intelligence and medical technology to drive innovation in healthcare.
+Here is my machine learning projects:
+
+1.Breast_Cancer_Prediction_Using_Machine_Learning.
+2.Thyroid_Detection__Using_Machine_Learning.
 
 
 ## 🌐 Socials:
