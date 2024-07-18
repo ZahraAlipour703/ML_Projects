@@ -5,6 +5,7 @@ Here is my machine learning projects:
 
 1.Breast_Cancer_Prediction_Using_Machine_Learning.
 2.Thyroid_Detection__Using_Machine_Learning.
+3.Titanic_survived_detection_using_ffnn.
 
 
 ## 🌐 Socials:
